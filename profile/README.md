@@ -1,6 +1,10 @@
 <p align="center">
   <img src="./jkgo_logo.svg" width="190" alt="J.K.GO Logo"/>
 </p>
+<p align="center">
+  <a href="./README.md"><b>한국어</b></a> • 
+  <a href="./En.md"><b>English</b></a>
+</p>
 
 <p align="center">
   <a href="https://jkgo.kr">
