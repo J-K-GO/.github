@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/jkgo_logo.svg" width="180" alt="J.K.GO Logo"/>
+  <img src="./jkgo_logo.svg" width="180" alt="J.K.GO Logo"/>
 </p>
 
 <p align="center">
